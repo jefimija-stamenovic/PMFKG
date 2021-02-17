@@ -23,7 +23,7 @@
   - U trenutku kada svaki filozof kod sebe ima samo jednu viljusku, i to u istoj ruci kao i svi ostali.
 
  8. Navesti barem 3 nacina dodele memorije.
-  - ?
+  - Fiksno, dinamičko, relokacija i partnerski sistem
 
  9. Postoji li fragmentacija kod straniceja?
   - Postoji unutrasnja fragmentacija koja je dovoljno mala da bude zanemarljiva.
